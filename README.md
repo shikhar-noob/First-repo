@@ -14,18 +14,7 @@ First repo for DSA
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shikhar-noob/First-repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-## Array
-|  |
-| ------- |
-| [0645-set-mismatch](https://github.com/shikhar-noob/First-repo/tree/master/0645-set-mismatch) |
-## Hash Table
-|  |
-| ------- |
-| [0645-set-mismatch](https://github.com/shikhar-noob/First-repo/tree/master/0645-set-mismatch) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0645-set-mismatch](https://github.com/shikhar-noob/First-repo/tree/master/0645-set-mismatch) |
+
 <!---LeetCode Topics End-->DSA
 
 
