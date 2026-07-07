@@ -22,6 +22,6 @@ class Solution {
                 return arr[j];
             }
         }
-        return -1; // unreachable given problem constraints
+        return -1; 
     }
 }
